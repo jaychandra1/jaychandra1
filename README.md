@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Kubernetes and Docker Topics
+
+  📈 my github stats
+
+<p align="center"> <img src="" alt="JayaChandra" />
 <!--
 **jaychandra1/jaychandra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
