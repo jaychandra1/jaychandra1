@@ -1,24 +1,67 @@
-### Hi there 👋
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ... Kubernetes and Docker Topics
+As a Senior DevOps Engineer, I have extensive experience with a wide range of tools and technologies that streamline development, deployment, and monitoring processes. Below is a categorized list of the tools and platforms I am proficient in:
 
-  📈 my github stats
+# Senior DevOps Engineer Tools
 
-<p align="center"> <img src="" alt="JayaChandra" />
-<!--
-**jaychandra1/jaychandra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## Version Control Systems
+| Git | Bitbucket | GitHub |
+| --- | --------- | ------ |
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## CI/CD (Continuous Integration/Continuous Deployment)
+| Azure DevOps | TeamCity | Octopus Deploy | CircleCI |
+| ------------ | -------- | -------------- | -------- |
 
-Here are some ideas to get you started:
+## Infrastructure as Code (IaC)
+| Terraform |
+| --------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Containerization & Orchestration
+| Docker | Kubernetes | Rancher RKE |
+| ------ | ---------- | ----------- |
+
+## Cloud Platforms
+| Amazon Web Services (AWS) | Microsoft Azure |
+| --------------------------| --------------- |
+
+## Monitoring & Logging
+| New Relic | Grafana | ELK Stack (Elasticsearch, Logstash, Kibana) | Kibana |
+| --------- | ------- | ------------------------------------------ | ------ |
+
+## Security
+| Snyk | Microsoft Defender | Tenable Cloud Security | Microsoft Sentinel |
+| ---- | ------------------ | ---------------------- | ------------------ |
+
+## Scripting & Automation
+| PowerShell | Bash Scripting |
+| ---------- | -------------- |
+
+## Development & Deployment
+| Azure DevOps | TeamCity | Octopus Deploy |
+| ------------ | -------- | -------------- |
+
+## Networking & Access
+| PuTTY |
+| ----- |
+
+## Operating Systems
+| Linux Servers | Windows Servers |
+| ------------- | --------------- |
+
+## System Administration
+| Windows In-Server Upgrades |
+| ------------------------- |
+
+## Database Management
+| MongoDB |
+| ------- |
+
+## Collaboration & Issue Tracking
+| Bitbucket | GitHub |
+| --------- | ------ |
+
+
+Feel free to connect with me to discuss DevOps practices, tools, and technologies!
+---
+
+*This README is continually updated to reflect my current expertise and interests.*
