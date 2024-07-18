@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Jaya Chandra </h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+
+
 Welcome to my GitHub profile! 
 
 As a Senior DevOps Engineer, I have extensive experience with a wide range of tools and technologies that streamline development, deployment, and monitoring processes. Below is a categorized list of the tools and platforms I am proficient in:
@@ -59,6 +63,11 @@ As a Senior DevOps Engineer, I have extensive experience with a wide range of to
 ## Collaboration & Issue Tracking
 | Bitbucket | GitHub |
 | --------- | ------ |
+
+
+<p align="center"><h3 align="center">Connect me 👉
+<a href="https://linkedin.com/in/mr-jayachandra" target="blank"><img align="center" src="linkedin.svg" alt="mr-jayachandra" height="30" width="40" /></a><a href="mailto:example@jayachandra261020@gmail.com" target="blank"><img align="center" src="gmail.svg" alt="mr-jayachandra" height="30" width="40" /><b>jayachandra261020@gmail.com</b></a>
+</p></h3>
 
 
 Feel free to connect with me to discuss DevOps practices, tools, and technologies!
