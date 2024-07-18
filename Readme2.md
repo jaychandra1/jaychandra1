@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <h3 align="Left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mr-jayachandra" target="blank"><img align="center" src="linkedin.svg" alt="mr-jayachandra" height="30" width="40" /></a><a href="mailto:example@jayachandra261020@gmail.com" target="blank"><img align="center" src="gmail.svg" alt="mr-jayachandra" height="30" width="40" />**jayachandra@gmail.com**</a>
+<a href="https://linkedin.com/in/mr-jayachandra" target="blank"><img align="center" src="linkedin.svg" alt="mr-jayachandra" height="30" width="40" /></a><a href="mailto:example@jayachandra261020@gmail.com" target="blank"><img align="center" src="gmail.svg" alt="mr-jayachandra" height="30" width="40" /><b>jayachandra261020@gmail.com</b></a>
 </p>
 
 
