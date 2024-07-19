@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaya Chandra </h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 Welcome to my GitHub profile! 
 
 As a Senior DevOps Engineer, I have extensive experience with a wide range of tools and technologies that streamline development, deployment, and monitoring processes. Below is a categorized list of the tools and platforms I am proficient in:
 
-# Senior DevOps Engineer Tools
+#DevOps Engineering Tools
 
 ## Version Control Systems
 | Git | Bitbucket | GitHub |
