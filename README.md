@@ -65,7 +65,7 @@ As a Senior DevOps Engineer, I have extensive experience with a wide range of to
 
 
 <p align="center"><h3 align="center">Connect me 👉
-<a href="https://linkedin.com/in/mr-jayachandra" target="blank"><img align="center" src="linkedin.svg" alt="mr-jayachandra" height="30" width="40" /></a><a href="mailto:example@jayachandra261020@gmail.com" target="blank"><img align="center" src="gmail.svg" alt="mr-jayachandra" height="30" width="40" /><b>jayachandra261020@gmail.com</b></a>
+<a href="https://linkedin.com/in/mr-jayachandra" target="blank"><img align="center" src="https://github.com/jaychandra1/profile_readme/blob/main/linkedin.svg" alt="mr-jayachandra" height="30" width="40" /></a><a href="mailto:example@jayachandra261020@gmail.com" target="blank"><img align="center" src="https://github.com/jaychandra1/profile_readme/blob/main/gmail.svg" alt="mr-jayachandra" height="30" width="40" /><b>jayachandra261020@gmail.com</b></a>
 </p></h3>
 
 
